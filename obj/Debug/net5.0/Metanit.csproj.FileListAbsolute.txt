@@ -1,0 +1,16 @@
+C:\Users\Химер Роковой\source\repos\Metanit\bin\Debug\net5.0\Metanit.exe
+C:\Users\Химер Роковой\source\repos\Metanit\bin\Debug\net5.0\Metanit.deps.json
+C:\Users\Химер Роковой\source\repos\Metanit\bin\Debug\net5.0\Metanit.runtimeconfig.json
+C:\Users\Химер Роковой\source\repos\Metanit\bin\Debug\net5.0\Metanit.runtimeconfig.dev.json
+C:\Users\Химер Роковой\source\repos\Metanit\bin\Debug\net5.0\Metanit.dll
+C:\Users\Химер Роковой\source\repos\Metanit\bin\Debug\net5.0\ref\Metanit.dll
+C:\Users\Химер Роковой\source\repos\Metanit\bin\Debug\net5.0\Metanit.pdb
+C:\Users\Химер Роковой\source\repos\Metanit\obj\Debug\net5.0\Metanit.csproj.AssemblyReference.cache
+C:\Users\Химер Роковой\source\repos\Metanit\obj\Debug\net5.0\Metanit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Химер Роковой\source\repos\Metanit\obj\Debug\net5.0\Metanit.AssemblyInfoInputs.cache
+C:\Users\Химер Роковой\source\repos\Metanit\obj\Debug\net5.0\Metanit.AssemblyInfo.cs
+C:\Users\Химер Роковой\source\repos\Metanit\obj\Debug\net5.0\Metanit.csproj.CoreCompileInputs.cache
+C:\Users\Химер Роковой\source\repos\Metanit\obj\Debug\net5.0\Metanit.dll
+C:\Users\Химер Роковой\source\repos\Metanit\obj\Debug\net5.0\ref\Metanit.dll
+C:\Users\Химер Роковой\source\repos\Metanit\obj\Debug\net5.0\Metanit.pdb
+C:\Users\Химер Роковой\source\repos\Metanit\obj\Debug\net5.0\Metanit.genruntimeconfig.cache
