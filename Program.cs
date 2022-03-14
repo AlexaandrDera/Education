@@ -7,16 +7,24 @@ namespace Metanit
     {
         static void Main(string[] args)
         {
-            var rectangle = new Rectangle { Width = 20, Height = 10 };
-            var circle = new Circle { Radius = 5 };
+            Message message = new Message("some message text");
+            EmailMessage email = new EmailMessage("text from email");
 
-            PrintShape(rectangle);
-            PrintShape(circle);
+            SendMessage(email);
+            SendMessage(message);
 
-            void PrintShape(Shape shape)
+            void SendMessage<T>(T message) where T: Message
             {
-                Console.WriteLine($"Perimetr: {shape.GetPerimetr()} Area: {shape.GetArea()}");
+                Console.WriteLine($"сообщение от сенд месседж {message.Text}");
             }
+
+            Messenger<Message> telegram = new Messenger<Message>();
+            telegram.SendMessage(new Message("hello telegram"));
+
+            Messenger<EmailMessage> outlook = new Messenger<EmailMessage>();
+            outlook.SendMessage(new EmailMessage("hello outlook"));
         }
     }
 }
+
+
